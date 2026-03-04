@@ -1,10 +1,10 @@
-# APCEM-Enhanced Cervical Cytology Image Dataset Code (v1.0)
+# APCEM-Enhanced Cervical Cytology Image Dataset
 
-This repository provides preprocessing, training, and evaluation scripts associated with the **APCEM-Enhanced Cervical Cytology Image Dataset. The repository supports reproducible experiments for cervical cytology image analysis and visual quality assessment.
+This repository provides preprocessing, training, and evaluation scripts associated with the APCEM-Enhanced Cervical Cytology Image Dataset. The repository supports reproducible experiments for cervical cytology image analysis and visual quality assessment.
 
 # Dataset
 
-The "APCEM-Enhanced Cervical Cytology Image Dataset" is publicly available through Mendeley Data.
+The APCEM-Enhanced Cervical Cytology Image Dataset is publicly available through Mendeley Data.
 
 Dataset DOI:
 https://doi.org/10.17632/snzb5g6ddy.2
@@ -41,4 +41,3 @@ Aswini, H. (2026).
 APCEM-Enhanced Cervical Cytology Image Dataset.
 Mendeley Data, V2.
 https://doi.org/10.17632/snzb5g6ddy.2
-
