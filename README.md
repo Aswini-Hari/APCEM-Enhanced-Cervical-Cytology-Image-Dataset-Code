@@ -1,5 +1,7 @@
 # APCEM-Enhanced Cervical Cytology Image Dataset
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18860357.svg)](https://doi.org/10.5281/zenodo.18860357)
+This repository contains preprocessing, training, and evaluation scripts
+corresponding to the APCEM cervical cytology dataset.
 This repository provides preprocessing, training, and evaluation scripts associated with the APCEM-Enhanced Cervical Cytology Image Dataset. The repository supports reproducible experiments for cervical cytology image analysis and visual quality assessment.
 
 # Dataset
